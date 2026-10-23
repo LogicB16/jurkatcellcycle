@@ -1,0 +1,12 @@
+{
+  "jurkat_presentation.py": {
+    "hash": "3422701d22bf8d3a325ddc137b2bbdbf4f44c67840ff1bfd0a45ad4daa89b4f9",
+    "index_entry": {
+      "id": "jurkat_presentation",
+      "title": "Jurkat Cell-Cycle Classification\n**Class-Weighted Learning and Cyclic Regularization**\n\n## Why study the cell cycle and Jurkat cells?\n\nThe cell cycle describes how cells grow, replicate DNA, and divide. Understanding\ncell proliferation is important in cancer biology, where cell division may\nbecome uncontrolled.\n\nJurkat cells are a human T-cell leukemia cell line commonly used in immunology\nand cancer research. Their cell-cycle stages provide a useful experimental\nreadout for studies of proliferation and responses to treatments.\n\n## Why classify microscopy images?\n\nWe classify individual Jurkat cells into **G1, S, G2, and Mitosis** using\n64 \u00d7 64 brightfield images. Some stages have overlapping visual features.\nA CNN can learn image features directly from labeled examples.",
+      "path": "traces/jurkat_presentation.json",
+      "step_count": 69,
+      "built_at": "2026-10-23T16:45:33.903303+00:00"
+    }
+  }
+}
